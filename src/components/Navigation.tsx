@@ -36,7 +36,7 @@ export function Navigation() {
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center">
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-                a16n.xyz
+                lCraft
               </span>
             </Link>
           </div>
