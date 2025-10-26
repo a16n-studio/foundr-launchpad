@@ -17,7 +17,7 @@ export default function Home() {
               </span>
             </h1>
             <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
-              A16N Venture Studio accelerates entrepreneurs and developers with battle-tested tools, 
+              Launchcraft accelerates entrepreneurs and developers with battle-tested tools, 
               expert guidance, and proven frameworks to transform ideas into successful startups.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
@@ -58,11 +58,11 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Why Choose A16N */}
+      {/* Why Choose Launchcraft */}
       <div className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold">Why Choose A16N?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold">Why Choose Launchcraft?</h2>
             <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
               We combine venture studio expertise with cutting-edge tools to accelerate your startup journey.
             </p>
@@ -116,20 +116,20 @@ export default function Home() {
             <Card className="shadow-card hover:shadow-elegant transition-all hover:-translate-y-1">
               <CardHeader>
                 <div className="flex items-center justify-between">
-                  <CardTitle className="text-lg">TextN</CardTitle>
+                  <CardTitle className="text-lg">Textn</CardTitle>
                   <div className="flex items-center">
                     <Star className="h-4 w-4 text-yellow-500 fill-current" />
                     <span className="text-sm ml-1">4.9</span>
                   </div>
                 </div>
-                <CardDescription>AI-powered collaborative text editor</CardDescription>
+                <CardDescription>AI-powered bulk SMS marketing automation tool for businesses</CardDescription>
               </CardHeader>
               <CardContent>
                 <div className="flex items-center justify-between">
-                  <span className="text-2xl font-bold text-primary">$29.99</span>
+                  <span className="text-2xl font-bold text-primary">$39.99</span>
                   <div className="flex space-x-2">
                     <Button variant="outline" size="sm" asChild>
-                      <a href="https://try.a16n.xyz/textn" target="_blank" rel="noopener noreferrer">
+                      <a href="https://try.launchcraft.so/textn" target="_blank" rel="noopener noreferrer">
                         Preview
                       </a>
                     </Button>
@@ -148,14 +148,14 @@ export default function Home() {
                     <span className="text-sm ml-1">4.7</span>
                   </div>
                 </div>
-                <CardDescription>Social casual gaming platform</CardDescription>
+                <CardDescription>Utility platform enabling seamless airtime-to-cash conversion, airtime/data top-up, electricity, and bill payments</CardDescription>
               </CardHeader>
               <CardContent>
                 <div className="flex items-center justify-between">
-                  <span className="text-2xl font-bold text-primary">$19.99</span>
+                  <span className="text-2xl font-bold text-primary">$29.99</span>
                   <div className="flex space-x-2">
                     <Button variant="outline" size="sm" asChild>
-                      <a href="https://try.a16n.xyz/friv" target="_blank" rel="noopener noreferrer">
+                      <a href="https://try.launchcraft.so/friv" target="_blank" rel="noopener noreferrer">
                         Preview
                       </a>
                     </Button>
@@ -174,14 +174,14 @@ export default function Home() {
                     <span className="text-sm ml-1">4.8</span>
                   </div>
                 </div>
-                <CardDescription>AI fashion recommendation app</CardDescription>
+                <CardDescription>Scalable dashboard with admin tools built for eCommerce, CRM/Saas platforms</CardDescription>
               </CardHeader>
               <CardContent>
                 <div className="flex items-center justify-between">
-                  <span className="text-2xl font-bold text-primary">$39.99</span>
+                  <span className="text-2xl font-bold text-primary">$19.99</span>
                   <div className="flex space-x-2">
                     <Button variant="outline" size="sm" asChild>
-                      <a href="https://try.a16n.xyz/outfit" target="_blank" rel="noopener noreferrer">
+                      <a href="https://try.launchcraft.so/outfit" target="_blank" rel="noopener noreferrer">
                         Preview
                       </a>
                     </Button>
@@ -218,7 +218,7 @@ export default function Home() {
               <div className="space-y-4 mb-8">
                 <div className="flex items-center space-x-3">
                   <Rocket className="h-5 w-5 text-primary" />
-                  <span>Custom MVP Development from $1,499</span>
+                  <span>Custom MVP Development from $1,500</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <TrendingUp className="h-5 w-5 text-primary" />
@@ -257,7 +257,7 @@ export default function Home() {
             Ready to Build Your Next Venture?
           </h2>
           <p className="text-lg text-muted-foreground mb-8">
-            Join hundreds of entrepreneurs who've accelerated their startup journey with A16N.
+            Join hundreds of entrepreneurs who've accelerated their startup journey with Launchcraft.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" asChild>
