@@ -10,7 +10,7 @@ export default function About() {
         {/* Hero Section */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">
-            About <span className="bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">A16N</span>
+            About <span className="bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">Launchcraft</span>
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
             We're a venture studio that accelerates entrepreneurs and developers by providing 
@@ -49,7 +49,7 @@ export default function About() {
             <h2 className="text-3xl font-bold text-center mb-8">Our Story</h2>
             <div className="prose prose-lg max-w-none text-muted-foreground space-y-6">
               <p className="text-center text-lg">
-                A16N was born from the frustration of watching talented entrepreneurs struggle with 
+                Launchcraft was born from the frustration of watching talented entrepreneurs struggle with 
                 the same technical and business challenges that have been solved countless times before.
               </p>
               
@@ -72,7 +72,7 @@ export default function About() {
                 
                 <div className="text-center">
                   <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <span className="text-2xl font-bold text-primary">2024</span>
+                    <span className="text-2xl font-bold text-primary">2025</span>
                   </div>
                   <h3 className="font-semibold mb-2">Scale</h3>
                   <p className="text-sm">50+ startups launched, $10M+ in funding raised</p>
