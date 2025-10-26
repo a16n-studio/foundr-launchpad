@@ -33,7 +33,7 @@ export default function Services() {
             </CardHeader>
             <CardContent className="space-y-6">
               <div className="flex items-baseline space-x-2">
-                <span className="text-3xl font-bold text-primary">$1,499</span>
+                <span className="text-3xl font-bold text-primary">$1,500</span>
                 <span className="text-muted-foreground">starting price</span>
               </div>
 
@@ -44,7 +44,7 @@ export default function Services() {
                 </div>
                 <div className="flex items-center space-x-3">
                   <CheckCircle className="h-5 w-5 text-green-500" />
-                  <span>Modern tech stack (React, Node.js, PostgreSQL)</span>
+                  <span>Modern tech stack (React, Node.js, PostgreSQL), and PHP & Laravel</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <CheckCircle className="h-5 w-5 text-green-500" />
@@ -138,7 +138,7 @@ export default function Services() {
                   Connect directly with our partner consultants at:
                 </p>
                 <Button variant="outline" asChild>
-                  <a href="https://coachli.co" target="_blank" rel="noopener noreferrer">
+                  <a href="https://coachli.co/a16n" target="_blank" rel="noopener noreferrer">
                     Coachli.co <ArrowRight className="ml-2 h-4 w-4" />
                   </a>
                 </Button>
@@ -216,7 +216,7 @@ export default function Services() {
         {/* Why Choose Us */}
         <div className="mb-16">
           <div className="text-center mb-8">
-            <h2 className="text-3xl font-bold mb-4">Why Choose A16N?</h2>
+            <h2 className="text-3xl font-bold mb-4">Why Choose Launchcraft?</h2>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
