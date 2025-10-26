@@ -76,19 +76,19 @@ export default function Contact() {
               <CardContent className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <Mail className="h-5 w-5 text-muted-foreground" />
-                  <span>hello@a16n.xyz</span>
+                  <span>hello@launchcraft.so</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="h-5 w-5 text-muted-foreground" />
-                  <span>+1 (555) 123-4567</span>
+                  <span>+234 (208) 455-4366</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <MapPin className="h-5 w-5 text-muted-foreground" />
-                  <span>San Francisco, CA</span>
+                  <span>Lagos, NG</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Clock className="h-5 w-5 text-muted-foreground" />
-                  <span>Mon-Fri 9AM-6PM PST</span>
+                  <span>Mon-Fri 9AM-6PM GMT</span>
                 </div>
               </CardContent>
             </Card>
@@ -99,7 +99,7 @@ export default function Contact() {
               </CardHeader>
               <CardContent className="space-y-3">
                 <Button variant="outline" className="w-full justify-start" asChild>
-                  <a href="https://coachli.co" target="_blank" rel="noopener noreferrer">
+                  <a href="https://coachli.co/a16n" target="_blank" rel="noopener noreferrer">
                     <ArrowRight className="h-4 w-4 mr-2" />
                     Book Business Consulting
                   </a>
@@ -165,7 +165,7 @@ export default function Contact() {
                         type="email"
                         value={formData.email}
                         onChange={(e) => handleChange('email', e.target.value)}
-                        placeholder="john@company.com"
+                        placeholder="barack@company.com"
                         required
                       />
                     </div>
@@ -258,7 +258,7 @@ export default function Contact() {
 
                   <p className="text-sm text-muted-foreground text-center">
                     We typically respond within 24 hours. For urgent inquiries, 
-                    please call us directly at +1 (555) 123-4567.
+                    please call us directly at +234 (803) 569-2829.
                   </p>
                 </form>
               </CardContent>
@@ -315,7 +315,7 @@ export default function Contact() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  We use modern, scalable technologies including React, Node.js, PostgreSQL, 
+                  We use modern, scalable technologies – React, Node.js, PostgreSQL, including PHP and Laravel,
                   and cloud platforms like AWS and Vercel. Technology choices depend on your specific needs.
                 </p>
               </CardContent>
