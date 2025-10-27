@@ -44,7 +44,7 @@ export default function Services() {
                 </div>
                 <div className="flex items-center space-x-3">
                   <CheckCircle className="h-5 w-5 text-green-500" />
-                  <span>Modern tech stack (React, Node.js, PostgreSQL), and PHP & Laravel</span>
+                  <span>Modern tech stack (React, Node.js, PostgreSQL)</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <CheckCircle className="h-5 w-5 text-green-500" />
