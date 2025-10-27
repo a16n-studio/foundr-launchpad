@@ -57,7 +57,7 @@ export default function Auth() {
           
           <Link to="/" className="inline-block">
             <span className="text-3xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-              a16n.xyz
+              Launchcraft
             </span>
           </Link>
         </div>
@@ -69,7 +69,7 @@ export default function Auth() {
             </CardTitle>
             <CardDescription>
               {isSignUp 
-                ? 'Start building your next venture with A16N' 
+                ? 'Start building your next venture with Launchcraft' 
                 : 'Sign in to access your dashboard and tools'
               }
             </CardDescription>
